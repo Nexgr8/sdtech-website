@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ padding: '40px', textAlign: 'center' }}>
+      <h1>Welcome to SD Tech</h1>
+      <p>Smart Energy & IoT Solutions for the Future</p>
+    </div>
+  );
+}
